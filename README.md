@@ -109,14 +109,6 @@ Collection of LeetCode, competitive programming, and interview preparation solut
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shardz97\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shardz97\&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/shardul-gagare-6757b340/
